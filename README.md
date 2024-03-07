@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1de4XDU8HAhnVWdlCoWR-TLxkbRLETyuu/view?usp=drive_link](https://drive.google.com/file/d/1de4XDU8HAhnVWdlCoWR-TLxkbRLETyuu/view?usp=drive_link)
 
-- ⚡ Fun fact **Not everyone know as much as you think they do :)**
+- ⚡ Fun fact **It’s all 0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
