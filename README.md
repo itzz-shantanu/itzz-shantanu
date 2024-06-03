@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **21051002@kiit.ac.in**
 
-- 📄 Know about my experiences: https://drive.google.com/file/d/1z2RuGkLQhjT3a3lKKMpl-VCFZA_zjNNJ/view?usp=sharing
+- 📄 Know about my experiences: https://drive.google.com/file/d/1QtfsAT5nC2C04oi19hFVc4tQlARriuUt/view?usp=sharing
 
 - ⚡ Fun fact: **It’s all 0’s and 1’s**
 
