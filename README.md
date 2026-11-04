@@ -1,71 +1,18 @@
-## Profile snapshot
+# 💫 About Me:
+About Me:<br><br>🔭 I'm currently working on Power BI dashboards, data modelling, DAX and SQL-based business reporting at Capgemini.<br><br>👯 I'm looking to collaborate on Full-stack applications, backend development and data analytics projects.<br><br>🤝 I'm looking for help with scalable backend architecture, system design and real-world software engineering practices.<br><br>🌱 I'm currently learning Advanced Java, Spring Boot, REST API security (JWT), Docker and cloud deployment.<br><br>💬 Ask me about Power BI, DAX, SQL, Python, Java, Spring Boot, REST APIs and data visualization.<br><br>⚡ Fun fact: Small, useful work over vague claims.
 
-<div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=itzz-shantanu&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F89775268%3Fu%3De12d5974c7ef97a47d46f90b99de1b32aec139bd%26v%3D4" alt="Shantanu Tripathi profile visual" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.gitskins.com/p/itzz-shantanu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shantanu-tripathi-433184273/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tripathishantanu0815@gmail.com) 
 
-<p><b>Software Engineer · Data Analytics · Backend Development</b></p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=itzz-shantanu&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=itzz-shantanu&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=itzz-shantanu&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-## About
-
-> Software Engineer at Capgemini, where I build interactive Power BI dashboards and SQL reporting for business teams. Alongside work, I'm building my skills as a backend developer, with Java, Spring Boot, REST APIs and MongoDB, by shipping and deploying real projects.
-
-*Small, useful work over vague claims.*
-
-## Core toolkit
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=itzz-shantanu&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F89775268%3Fu%3De12d5974c7ef97a47d46f90b99de1b32aec139bd%26v%3D4" alt="Shantanu's technology stack visual" />
-</p>
-
-- **Data and BI:** SQL, Power BI (DAX, Power Query), Tableau, Qlik, Excel
-- **Programming:** Python, Java, JavaScript
-- **Backend and web:** Spring Boot, REST APIs, JWT, MongoDB, React
-- **Tools:** Git and GitHub, Docker, Postman, Vercel, Render
-
-## Selected work
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=itzz-shantanu&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F89775268%3Fu%3De12d5974c7ef97a47d46f90b99de1b32aec139bd%26v%3D4" alt="Shantanu's selected projects visual" />
-</p>
-
-| Project | What it is | Tech |
-|---|---|---|
-| **[Resume Builder](https://resume-builder-pi-nine-78.vercel.app)** · [Live demo](https://resume-builder-pi-nine-78.vercel.app) | Full-stack app to create, preview and export resumes, with email verification, image uploads and test-mode payments. Built on a course project that I extended, secured and deployed using Vercel, Render and MongoDB Atlas. | Java 21, Spring Boot, React, MongoDB, Docker |
-| **[Election Analysis Dashboard](https://github.com/itzz-shantanu/Election-Analysis-Dashboard-PowerBI)** | Interactive Power BI report on the India General Election 2024, covering alliance-wise performance, state demographics and constituency drill-throughs with dynamic KPIs. | Power BI, DAX |
-| **[Directory](https://github.com/itzz-shantanu/Directory)** | Java application to add, view, edit and delete contacts. | Java |
-
-## What I'm up to
-
-- 📊 **At work:** dashboard design, data modelling, DAX measures, Power Query and SQL-based reporting
-- ⚙️ **On the side:** backend development with Java and Spring Boot, API security (JWT), Docker and cloud deployment
-- 🎯 **Looking toward:** a backend software developer role
-
-## Let’s connect
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=itzz-shantanu&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F89775268%3Fu%3De12d5974c7ef97a47d46f90b99de1b32aec139bd%26v%3D4" alt="Shantanu's social links visual" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shantanu-tripathi-433184273">LinkedIn</a> ·
-  <a href="https://github.com/itzz-shantanu">GitHub</a>
-</p>
-
-## Certifications and education
-
-- Microsoft Certified: **PL-300** Power BI Data Analyst Associate
-- Capgemini **OCEAN L1** Visualization Professional: Analytics (SQL) and (Power BI)
-- **B.Tech in Computer Science & Engineering**, Kalinga Institute of Industrial Technology (2025)
-
-## Activity
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=itzz-shantanu&theme=satan" alt="Shantanu's GitHub contribution activity" />
-</p>
-
-<p align="center"><sub>Shantanu Tripathi · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-danv">Recruiter-ready</a> template by <a href="https://www.gitskins.com/creators/itzz-shantanu">@itzz-shantanu</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
